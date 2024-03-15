@@ -1,0 +1,64 @@
+{
+  
+  "name": "hd-simple",
+  
+  "description": "This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.",
+  
+  "version": "1.0.0",
+  
+  "main": "index.js",
+  
+  "author": "uzezijephter@gmail.com",
+  
+  "license": "ISC",
+  
+  "directories": {
+  
+    
+  "test": "test"
+  
+  },
+  
+  "scripts": {
+  
+    
+  "test": "mocha"
+  
+  },
+  
+  "devDependencies": {
+  
+    
+  "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+  
+    
+  "hardhat": "^2.22.1",
+  
+    
+  "prettier": "^3.2.5",
+  
+    
+  "prettier-plugin-solidity": "^1.3.1"
+  
+  },
+  
+  "keywords": [
+  
+    
+  "hardhat",
+  
+    
+  "solidity",
+  
+    
+  "protocol"
+  
+  ],
+  
+  "dependencies": {
+  
+    
+  "dotenv": "^16.4.5"
+  
+  }
+}
